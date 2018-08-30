@@ -1,24 +1,24 @@
 # ud036_StarterCode
 Source code for a Movie Trailer website.
 
-##Introduction
+## Introduction
 Part of the Udacity Full Stack Web Developer Nanodegree
 
-##About this project
+## About this project
 A Python program that produces HTML for a website that displays movie trailers. Clicking on a movie image will play its trailer.
 
-##Requirements
+## Requirements
 Python 3.x is required to run this project. 
 
-##Receiving files from GitHub
+## Receiving files from GitHub
 Download the project zip file to you computer and unzip the folder. ALternatively, you can clone this repository to your desktop.
 
-##Running this project
+## Running this project
 Open the command prompt from your terminal and navigate to the project directory. From there type in the following command:
 
-python entertainment_center.py
+'''python entertainment_center.py'''
 
-##Credit
+## Credit
 Udacity for providing frameworks and tutorials.
 Wikipedia for movie images
 Youtube for movie trailers
