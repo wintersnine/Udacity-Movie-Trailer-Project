@@ -1,7 +1,7 @@
 # Udacity Movie Trailer Website
 
 ## Introduction
-This project is part of the Udacity Full Stack Web Developer Nanodegree. The code will produces an HTML for a website that displays movie trailers. Clicking on a movie image will play its trailer.
+This project is part of the Udacity Full Stack Web Developer Nanodegree. This code will produces HTML for a website that displays a small selection of movie trailers.
 
 ## Requirements
 Python 3.x is required to run this project. 
@@ -14,6 +14,8 @@ Open the command prompt from your terminal and navigate to the project directory
 ```
 python entertainment_center.py
 ```
+The newly created website will be launched from your browser. 
+
 ## Credit
 - Udacity for providing frameworks and tutorials.
 - Wikipedia for movie images.
