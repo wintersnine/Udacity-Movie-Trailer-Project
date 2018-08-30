@@ -15,8 +15,8 @@ Open the command prompt from your terminal and navigate to the project directory
 python entertainment_center.py
 ```
 ## Credit
-Udacity for providing frameworks and tutorials.
-Wikipedia for movie images
-Youtube for movie trailers
+- Udacity for providing frameworks and tutorials.
+- Wikipedia for movie images.
+- Youtube for movie trailers.
  
 
