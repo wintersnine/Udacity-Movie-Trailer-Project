@@ -15,9 +15,9 @@ Download the project zip file to you computer and unzip the folder. ALternativel
 
 ## Running this project
 Open the command prompt from your terminal and navigate to the project directory. From there type in the following command:
-
-'''python entertainment_center.py'''
-
+'''
+python entertainment_center.py
+'''
 ## Credit
 Udacity for providing frameworks and tutorials.
 Wikipedia for movie images
